@@ -1,4 +1,4 @@
-# Hey, soy Dylan 👋
+# Hola, soy Dylan
 
 ### Técnico en Programación de Software · Cali, Colombia 🇨🇴
 
@@ -26,11 +26,11 @@ que subo aquí es parte de ese proceso.
 
 ## Un poco sobre mí
 
-- 📍 Vivo en Cali, Colombia
-- 🎓 Aprendiz SENA — **Técnico en Programación de Software**
-- ⚛️ Ahora mismo enfocado en React y en entender mejor el desarrollo full stack
-- 🔍 Buscando mi primera oportunidad en etapa práctica
-- 💡 Creo firmemente que uno aprende de verdad cuando se enfrenta a problemas reales
+- Vivo en Cali, Colombia
+- Aprendiz SENA — **Técnico en Programación de Software**
+- Ahora mismo enfocado en React y en entender mejor el desarrollo full stack
+- Buscando mi primera oportunidad en etapa práctica
+- Creo firmemente que uno aprende de verdad cuando se enfrenta a problemas reales
 
 ---
 
