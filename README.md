@@ -5,7 +5,7 @@
 Soy aprendiz SENA y estoy construyendo mi camino en el desarrollo de software,
 un proyecto a la vez. Comencé con lo básico: HTML, CSS y JavaScript, poco a
 poco fui metiéndome más en el mundo del desarrollo hasta llegar a React. No tengo
-todo claro todavía, pero eso es lo que hace interesante este camino.
+todo claro todavía, pero me gusta aprender.
 
 Aprendo mejor cuando tengo algo concreto qué construir, así que cada proyecto
 que subo aquí es parte de ese proceso.
@@ -29,7 +29,6 @@ que subo aquí es parte de ese proceso.
 - Vivo en Cali, Colombia
 - Aprendiz SENA — **Técnico en Programación de Software**
 - Ahora mismo enfocado en React y en entender mejor el desarrollo full stack
-- Buscando mi primera oportunidad en etapa práctica
 - Creo firmemente que uno aprende de verdad cuando se enfrenta a problemas reales
 
 ---
