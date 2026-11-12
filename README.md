@@ -12,25 +12,25 @@ Me gusta entender cómo funciona cada pieza del sistema. Aprendo mejor cuando me
 
 ### Tecnologías principales (uso diario y proyectos reales)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://shields.io)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://shields.io)
-![Node.js](https://shields.io)
-![NestJS](https://shields.io)
-![Express.js](https://shields.io)
-![PostgreSQL](https://shields.io)
-![Supabase](https://shields.io)
-![Git](https://shields.io)
+![TypeScript](https://shields.io) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Tailwind CSS](https://shields.io) 
+![Node.js](https://shields.io) 
+![NestJS](https://shields.io) 
+![Express.js](https://shields.io) 
+![PostgreSQL](https://shields.io) 
+![Supabase](https://shields.io) 
+![Git](https://shields.io) 
 
 ### Bases y tecnologías que sigo explorando
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://shields.io)
-![FastAPI](https://shields.io)
-![MongoDB](https://shields.io)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![Python](https://shields.io) 
+![FastAPI](https://shields.io) 
+![MongoDB](https://shields.io) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 
 ---
 
@@ -45,8 +45,8 @@ Me gusta entender cómo funciona cada pieza del sistema. Aprendo mejor cuando me
 
 ## Mis estadísticas en GitHub
 
-![dilan0410's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilan0410&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilan0410&layout=compact&theme=tokyonight&hide_border=true)
+![dilan0410's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilan0410&show_icons=true&theme=tokyonight&hide_border=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilan0410&layout=compact&theme=tokyonight&hide_border=true) 
 
 ---
 
@@ -54,7 +54,7 @@ Me gusta entender cómo funciona cada pieza del sistema. Aprendo mejor cuando me
 
 Estoy buscando mi primera oportunidad laboral formal como Desarrollador. Si tienes una vacante o un proyecto interesante, escríbeme:
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com) 
 [![Email](https://img.shields.io/badge/dilancarvajal84@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilancarvajal84@gmail.com)
 
 ---
