@@ -1,35 +1,45 @@
-# Hola, soy Dylan
+# Hola, soy Dilan 👋
 
-### Técnico en Programación de Software · Cali, Colombia 🇨🇴
+### Desarrollador Full Stack Junior · Técnico en Programación de Software (SENA) · Cali, Colombia 🇨🇴
 
-Soy aprendiz SENA y estoy construyendo mi camino en el desarrollo de software,
-un proyecto a la vez. Comencé con lo básico: HTML, CSS y JavaScript, poco a
-poco fui metiéndome más en el mundo del desarrollo hasta llegar a React. No tengo
-todo claro todavía, pero me gusta aprender.
+Estoy en la recta final de mi formación como Técnico en Programación de Software en el SENA y apasionado por construir aplicaciones web funcionales de principio a fin. Empecé con las bases de la web (HTML, CSS y JavaScript) y hoy en día desarrollo proyectos reales combinando interfaces dinámicas en React con arquitecturas backend bien construidas.
 
-Aprendo mejor cuando tengo algo concreto qué construir, así que cada proyecto
-que subo aquí es parte de ese proceso.
+Me gusta entender cómo funciona cada pieza del sistema. Aprendo mejor cuando me enfrento a problemas reales, así que cada repositorio aquí es parte de mi crecimiento constante como desarrollador.
 
 ---
 
-## Con qué estoy trabajando actualmente
+## Stack Tecnológico
 
+### Tecnologías principales (uso diario y proyectos reales)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://shields.io)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://shields.io)
+![Node.js](https://shields.io)
+![NestJS](https://shields.io)
+![Express.js](https://shields.io)
+![PostgreSQL](https://shields.io)
+![Supabase](https://shields.io)
+![Git](https://shields.io)
+
+### Bases y tecnologías que sigo explorando
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://shields.io)
+![FastAPI](https://shields.io)
+![MongoDB](https://shields.io)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## Un poco sobre mí
+## Un poco más sobre mí
 
-- Vivo en Cali, Colombia
-- Aprendiz SENA — **Técnico en Programación de Software**
-- Ahora mismo enfocado en React y en entender mejor el desarrollo full stack
-- Creo firmemente que uno aprende de verdad cuando se enfrenta a problemas reales
+- Vivo en **Cali, Colombia**.
+- Culminando mi etapa práctica como **Técnico en Programación de Software** en el SENA.
+- Recientemente estuve desarrollando **Ecosysval**, una plataforma web B2B donde trabajé y colabore desde el diseño de interfaces adaptativas hasta la creación de APIs REST y modelado de bases de datos relacionales.
+- Siempre abierto a aprender nuevas herramientas, mejorar mis buenas prácticas de código y sumarme a un equipo donde pueda aportar y seguir creciendo.
 
 ---
 
@@ -40,10 +50,11 @@ que subo aquí es parte de ese proceso.
 
 ---
 
-## ¿Hablamos?
+## ¿Conectamos?
 
-Si tienes algún proyecto interesante, una duda o simplemente quieres conectar, escríbeme.
+Estoy buscando mi primera oportunidad laboral formal como Desarrollador. Si tienes una vacante o un proyecto interesante, escríbeme:
 
+[![LinkedIn](https://shields.io)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/dilancarvajal84@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilancarvajal84@gmail.com)
 
 ---
