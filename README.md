@@ -30,7 +30,7 @@ Soy un desarrollador apasionado por crear aplicaciones web funcionales, desde in
 
 ## ¿Conectamos?
 
-* **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/dilan-espa%C3%B1a-3760a93ab/)
+* **LinkedIn:** [dilan](https://www.linkedin.com/in/dilan-espa%C3%B1a-3760a93ab/)
 * **Correo:** dilancarvajal84@gmail.com
 
 ---
